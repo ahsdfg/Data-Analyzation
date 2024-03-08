@@ -1,4 +1,4 @@
-Contents of the book '모두의 데이터분석 with python'
+Contents of the book '모두의 데이터분석 with python'.
 The book uses commonly used libraries in python, matplotlib, numpy and pandas for data analyzation.
 It taught me basic concepts of these libraries, along with the fundametal questions one should ask before starting any data analyzation related projects.
 Points to highlight were:
